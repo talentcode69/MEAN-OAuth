@@ -36,7 +36,7 @@
     "morgan": "~1.9.0",
     "ngx-cookie-service": "^1.0.10",
     "nodemon": "^1.17.3",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "rxjs": "^5.5.6",
     "serve-favicon": "~2.4.5",
     "zone.js": "^0.8.19"
